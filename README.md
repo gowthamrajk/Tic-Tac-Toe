@@ -10,3 +10,4 @@
 
 - TIC-TAC-TOE game with dual player option
 - you can choose your playing name as X (or) O
+- Computer will be your oponent
