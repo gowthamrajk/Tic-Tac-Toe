@@ -6,5 +6,6 @@
 
 - This is a Java Based Console Application Game which exactly replicates TIC-TAC-TOE with dual player option
 
+## 🔭 Features :
 
 
