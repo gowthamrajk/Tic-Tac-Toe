@@ -26,6 +26,8 @@
 ![image](https://user-images.githubusercontent.com/43011442/128211433-cb1a03ba-9af0-4a19-9ab4-fe8bf2c3d7fe.png)
 ![image](https://user-images.githubusercontent.com/43011442/128211634-8380152a-f0e2-4832-af7a-11552b641f93.png)
 
+## Sample Game with Player O 🔥
+
 ![image](https://user-images.githubusercontent.com/43011442/128211728-d49fcffc-3f38-4fc0-b82f-0590ed36044c.png)
 
 # TECHNOLOGIES USED 📌
