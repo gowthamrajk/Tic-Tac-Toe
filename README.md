@@ -21,6 +21,8 @@
 
 ## Sample Test with Player X 🔥
 
+![image](https://user-images.githubusercontent.com/43011442/128211192-fc7533c6-5c04-4d65-a26e-9562948c2c17.png)
+
 
 # TECHNOLOGIES USED 📌
 
