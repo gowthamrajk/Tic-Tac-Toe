@@ -29,6 +29,8 @@
 ## Sample Game with Player O 🔥
 
 ![image](https://user-images.githubusercontent.com/43011442/128211728-d49fcffc-3f38-4fc0-b82f-0590ed36044c.png)
+![image](https://user-images.githubusercontent.com/43011442/128211895-5a4ebc1d-ce26-41ed-9cf2-d18b9ede652b.png)
+
 
 # TECHNOLOGIES USED 📌
 
