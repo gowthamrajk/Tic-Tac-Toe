@@ -12,6 +12,8 @@
 - you can choose your playing name as X (or) O
 - Computer will be your oponent
 
+# CONSOLE OUTPUT ❤️
+
 # TECHNOLOGIES USED 📌
 
 ## Development 🔭
