@@ -12,4 +12,6 @@
 - you can choose your playing name as X (or) O
 - Computer will be your oponent
 
-# Development 📌
+# TECHNOLOGIES USED 📌
+
+## Development 🔭
