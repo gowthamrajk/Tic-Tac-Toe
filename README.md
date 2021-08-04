@@ -8,4 +8,4 @@
 
 ## 🔭 Features :
 
-
+- TIC-TAC-TOE game with dual player option
